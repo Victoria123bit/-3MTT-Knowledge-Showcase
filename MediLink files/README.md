@@ -32,31 +32,31 @@ MediLink AI addresses these challenges by providing an intelligent healthcare as
 
 ### Home Page
 
-![Home](assets/home.png)
+![Home](assets/home.PNG)
 
 ---
 
 ### AI Symptom Checker
 
-![Symptom Checker](assets/symptom_checker.png)
+![Symptom Checker](assets/symptom_checker.PNG)
 
 ---
 
 ### Medication Reminder
 
-![Medication Reminder](assets/reminder.png)
+![Medication Reminder](assets/reminder.PNG)
 
 ---
 
 ### Health Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard.PNG)
 
 ---
 
 ### Health Education Assistant
 
-![Health Education](assets/education.png)
+![Health Education](assets/education.PNG)
 
 ---
 
@@ -75,7 +75,7 @@ MediLink AI addresses these challenges by providing an intelligent healthcare as
 
 ## 🏗️ Project Architecture
 
-![Architecture](assets/architecture.png)
+![Architecture](assets/architecture.PNG)
 
 ---
 
