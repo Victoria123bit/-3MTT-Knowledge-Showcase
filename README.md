@@ -1,6 +1,6 @@
 # 🏥 MediLink AI
 
-![MediLink AI Banner](assets/banner.PNG)
+![MediLink AI Banner](assets/banner.png)
 
 **MediLink AI** is an AI-powered healthcare assistant designed to improve access to reliable health information, symptom guidance, and medication management for users in Nigeria.
 
